@@ -1,4 +1,4 @@
 # First-Project1
-My first project is CGPA Calculator using C++ programming language.
-You can see my first project.
+First task is CGPA Calculator using C++ programming language.
+You can see first task.
 Thank You.
